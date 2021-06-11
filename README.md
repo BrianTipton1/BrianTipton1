@@ -11,9 +11,6 @@
 - ❓ Ask me about anything about my projects  
   
 
-<br/>  
-
-
 ## My Interests
 <table><tr><td valign="top" width="33%">
 
@@ -32,32 +29,14 @@
 
 </td></tr></table>  
 
-<br/>  
-
-  
-
-<br/>  
-
 
 ## Github Stats  
+
+
+<br/>
+<br/>
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=BrianTipton1&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
- 
-  
-
-<br/>  
-
-
-<br />
 
 
