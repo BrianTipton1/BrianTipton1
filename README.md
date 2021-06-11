@@ -5,7 +5,7 @@
 
 <br/>
 
-- 🌱 I’m currently learning Docker and ASP.NET  
+- 🌱 I’m currently learning more about Docker and ASP.NET  
   
 
 - ❓ Ask me about anything about my projects  
