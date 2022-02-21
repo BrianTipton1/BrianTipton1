@@ -4,10 +4,6 @@
   
 
 <br/>
-
-- 🌱 I’m currently learning more about Julia 
-  
-
 - ❓ Ask me about anything about my projects  
   
 
