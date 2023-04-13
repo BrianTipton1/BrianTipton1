@@ -39,12 +39,13 @@ I'm a computer science student with strong interests in software development, Li
 <br/>  
 
 
-## Github Stats  
+## Github Stats 
+<div>
 <table><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianTipton1&hide_border=true&layout=compact" align="left" style="width: 100%" />
   </td>
 </tr></table>  
-
+</div>
 <br/>  
 
   
