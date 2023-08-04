@@ -7,7 +7,7 @@
 
 
 ### Glad to see you here!  
-I'm a computer science student with strong interests in software development, Linux/DevOps and mathematics. Ask me anything about my projects/configurations.   
+I'm a computer science student and Software Engineer with strong interests in Software Engineering/Development, Linux/DevOps and Mathematics. Functional Programming Enjoyer. Ask me anything about my projects/configurations.   
   
 
 <br/>  
@@ -33,6 +33,7 @@ I'm a computer science student with strong interests in software development, Li
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://www.haskell.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/haskell.png" alt="Haskell" height="50" /></a>  
   <a href="https://nixos.org/" target="_blank"><img style="margin: 10px" src="https://nixos.wiki/nixos-logo-small.png" alt="NixOs" height="50" /></a>  
+  <a href="https://ocaml.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ocaml/ocaml-logo/blob/master/Colour/PNG/colour-transparent-icon.png?raw=true" alt="OCaml" height="50" /></a>  
 </div>  
 
 
