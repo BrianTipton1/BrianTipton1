@@ -7,7 +7,9 @@
 
 
 ### Glad to see you here!  
-I'm a computer science student and Software Engineer with strong interests in Software Engineering/Development, Linux/DevOps and Mathematics. Functional Programming Enjoyer. Ask me anything about my projects/configurations.   
+I'm a Software Engineer with strong interests in Software Engineering, Linux/DevOps and Mathematics. 
+Functional Programming Enjoyer. 
+Ask me anything about my projects/configurations.   
   
 
 <br/>  
